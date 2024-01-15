@@ -1,0 +1,10 @@
+https://chat.openai.com/share/5b7dc6b4-04f1-491f-8a1c-a2bef17681db?fbclid=IwAR1wUVNfqiPoNtfhCzHWDkbe7nHYlX3fb9C3kimH4zXg0RKgEfSZKc-YSmE//chunks and structs
+
+https://chat.openai.com/share/40ba251c-514a-460f-9856-c9b653d2cd15?fbclid=IwAR00wpk2LeZSuXLGhm95OtFtlzMgmliIaV6U9_ymEbIa-W8Z-QxLf3xK0vI //chunk iterator functions
+
+https://chat.openai.com/share/85559dfc-face-4d31-aaf3-3109e67aaa03 //sort and fix chunk functions
+
+https://chat.openai.com/share/0661ba6a-f15f-47ab-ba02-3add150f31a7  // sortSingleChunk
+
+https://chat.openai.com/share/85559dfc-face-4d31-aaf3-3109e67aaa03 //merge and update sort single chunk,also some fixes on chunk.c functions
+
